@@ -1,6 +1,6 @@
 # sap-api-integrations-outbound-delivery-events  
-sap-api-integrations-outbound-delivery-eventsは、SAP上で発生した出荷イベントを、SAP API で出力するマイクロサービスです。  
-sap-api-integrations-outbound-delivery-eventsには、サンプルのAPI Json フォーマットが含まれています。  
+sap-api-integrations-outbound-delivery-events は、外部システム(特にエッジコンピューティング環境)をSAPと統合することを目的として、SAP上で発生した出荷イベントを、SAP API で出力するマイクロサービスです。  
+sap-api-integrations-outbound-delivery-events には、サンプルのAPI Json フォーマットが含まれています。  
 
 ## 動作環境
 sap-api-integrations-outbound-delivery-events は、主にエッジコンピューティング環境における動作にフォーカスしています。  
